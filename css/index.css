@@ -1,0 +1,57 @@
+
+body{
+   
+    margin: 0;
+    padding: 0;
+}
+
+.center-main-title{
+    margin-left: 40px
+}
+
+#banner{
+    width: 100%;
+
+}
+
+.main{
+    background: #cccccc;
+    padding: 30px;
+    text-align: center;
+}
+
+.center-text{
+    text-align: center;
+}
+
+.mission{
+    font-size: 20px;
+}
+
+.mission strong{
+    color: #FF0000
+}
+
+.benefites{
+    background: #ffffff;
+    padding: 20px;
+}
+
+.benefites h3{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.benefites .img-benefites{
+    width: 50%;
+}
+
+.itens{
+    font-style: italic;
+}
